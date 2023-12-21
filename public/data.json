@@ -1,0 +1,88 @@
+{
+    "contactInfo": {
+        "phones": [
+            {
+                "type": "home",
+                "number": "555-1234",
+                "_id": "657ee949f9bd614fb88ec4ca"
+            },
+            {
+                "type": "office",
+                "number": "555-5678",
+                "_id": "657ee949f9bd614fb88ec4cb"
+            }
+        ],
+        "emails": [
+            {
+                "type": "personal",
+                "address": "john.doe.personal@example.com",
+                "_id": "657ee949f9bd614fb88ec4cc"
+            },
+            {
+                "type": "work",
+                "address": "john.doe.work@example.com",
+                "_id": "657ee949f9bd614fb88ec4cd"
+            }
+        ],
+        "address": "1234 Business Rd, Business City, BC, 12345"
+    },
+    "design": {
+        "font": "Helvetica",
+        "color": "#123456",
+        "font_color": "#654321",
+        "template": "modern_style",
+        "background": "http://example.com/background.png",
+        "social_media_style": "icons",
+        "profile_image_layout": "circle",
+        "background_type": "image",
+        "profile_image_allignment": "center"
+    },
+    "_id": "657ee949f9bd614fb88ec4c9",
+    "userId": "6551ef489487fbf3350bf3c6",
+    "video": "http://example.com/video.mp4",
+    "card_name": "John Doe Business Card",
+    "email": "johndoe@example.com",
+    "card_type": "Corporate",
+    "first_name": "John",
+    "middle_name": "M",
+    "last_name": "Doe",
+    "prefix": "Mr.",
+    "suffix": "PhD",
+    "accreditations": "MBA, PMP",
+    "preferred_name": "Johnny",
+    "maiden_name": "Smith",
+    "pronouns": "he/him",
+    "department": "Marketing",
+    "name": "John Doe",
+    "title": "Marketing Manager",
+    "company": "Doe Enterprises",
+    "company_logo": "http://example.com/logo.png",
+    "image": "http://example.com/profile.jpg",
+    "website": "http://www.johndoe.com",
+    "skills": [
+        "Leadership",
+        "Marketing",
+        "Communication"
+    ],
+    "socialMedia": [
+        {
+            "name": "linkedin",
+            "url": "http://www.linkedin.com/in/johndoe",
+            "_id": "657ee949f9bd614fb88ec4ce"
+        },
+        {
+            "name": "twitter",
+            "url": "http://www.twitter.com/johndoe",
+            "_id": "657ee949f9bd614fb88ec4cf"
+        }
+    ],
+    "logo": "http://example.com/business-logo.png",
+    "cover_image": "http://example.com/cover-image.jpg",
+    "withoutImage": "",
+    "about": "Experienced marketing manager with over 10 years in the industry.",
+    "personalUrl": "johhghfn_doe_uniqwwwue_url",
+    "template": "professional_layout",
+    "created_at": "2023-12-17T12:27:53.873Z",
+    "updated_at": "2023-12-17T12:27:53.877Z",
+    "__v": 0
+}

@@ -6,12 +6,13 @@ import Review from "@/components/main/Review";
 import Subscribe from "@/components/main/Subscribe";
 import TrustedCompany from "@/components/main/TrustedCompany";
 import WhatIDo from "@/components/main/WhatIDo";
-import Footer from "@/components/shared/Footer";
+
 
 export default function Home() {
   return (
     <main className=''>
     <div className=''>
+      
     <Hero/>
     <WhatIDo/>
     <OngoingProject/>
@@ -20,7 +21,7 @@ export default function Home() {
     <Review/>
     <Choice/>
     <BlogPost/>
-    <Footer/>
+
     </div>
     </main>
   )
